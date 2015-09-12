@@ -1,0 +1,122 @@
+---
+layout: post
+status: publish
+published: true
+title: Assets for game devs
+thumbnail: external-link
+author:
+    display_name: rontav
+    email: mr_vali@yahoo.ro
+    url: http://rontavstudio.com
+categories:
+- Unity3D
+tags:
+- unity 3D
+- assets
+- royality free
+comments: []
+---
+If you have any suggestions (websites to add to this list) please let me know in the comments section at the bottom of the page.
+<p style="margin-bottom: 0;">General:</p>
+<ul class="squareList">    
+    <li><a href="http://opengameart.org/">Open Game Art</a><span>: Free, legal art for open source game projects (includes models, sprites, textures, sounds, music).</span></li>    
+    <li><a href="http://freegamearts.tuxfamily.org/">Free Game Arts</a><span>: Promotes the use and development of free and “open source” game resources, including 3D models, sound effects, textures, games and development tools.</span></li>    
+    <li><a href="http://virtualworlds.wikia.com/">WikiWorlds</a><span>: The goal of this wiki is to create virtual worlds under a free content license.</span></li>    
+    <li><a href="http://www.psionic3d.co.uk/">Psionic’s 3D Game Resources</a><span>: Psionic’s “art website with free 3D models, textures, sound fx etc”.</span></li>    
+    <li><a href="http://hasgraphics.com/">HasGraphics</a><span>: Sprites, textures, tiles and many more.</span></li>
+</ul>
+Graphics (2D):
+<ul class="squareList">    
+    <li><a href="http://www.lostgarden.com/search/label/free%20game%20graphics">Lost Garden free game graphics</a><span>: Danc’s miraculously flexible game prototyping graphics for small worlds.</span></li>    
+    <li><a href="http://www.indiegamestock.com/">Indie Game Stock</a><span>: Characters, buildings, props and backgrounds.</span></li>    
+    <li><a title="Unlucky Studio" href="http://www.unluckystudio.com" target="_blank">Unlucky Studio</a><span>: They release one free sprites pack every month.</span></li>
+</ul>
+Sound:
+<ul class="squareList">    
+    <li><a href="http://www.freesound.org/">The Freesound Project</a><span>: A collaborative database of Creative Commons licensed sounds.</span></li>    
+    <li><a href="http://www.pdsounds.org/">pdsounds</a><span>: Public domain sounds, a free sound library.</span></li>    
+    <li><a href="http://www.flashkit.com/soundfx/">FlashKit SoundFx</a><span>: An ever growing list of shareware and freeware SoundFX for download.</span></li>    
+    <li><a href="http://www.drpetter.se/project_sfxr.html">DrPetter’s sfxr</a><span>: Retro sound effects generator.</span></li>
+</ul>
+Music:
+<ul class="squareList">    
+    <li><a href="http://www.jamendo.com">Jamendo</a><span>: Free and legal music downloads.</span></li>    
+    <li><a href="http://freemusicarchive.org/">Free Music Archive</a><span>: “It’s not just free music, it’s good music”.</span></li>    
+    <li><a href="http://incompetech.com/m/c/royalty-free/">Incompetech</a><span>: Royalty free music search.</span></li>    
+    <li><a href="http://www.openmusicarchive.org/">Open Music Archive</a><span>: A collaborative project to source, digitise and distribute out-of-copyright sound recordings.</span></li>
+</ul>
+Models:
+<ul class="squareList">    
+    <li><a href="http://e2-productions.com/repository/index.php">The Official Blender Model Repository</a><span>: Free Blender resources.</span></li>    
+    <li><a href="http://www.katorlegaz.com/3d_models/index.php">Kagor Legaz’s 3D Models</a><span>: Variety of Blender models.</span></li>    
+    <li><a href="http://sketchup.google.com/3dwarehouse/">Google 3D Warehouse</a><span>: 3D models for use in Google SketchUp.</span></li>
+</ul>
+Textures:
+<ul class="squareList">    
+    <li><a href="http://www.cgtextures.com/">CG Textures</a><span>: The world’s largest free texture site.</span></li>    
+    <li><a href="http://www.mayang.com/textures/">Mayang’s Free Textures</a><span>: Over 3800 free to download, high-resolution textures.</span></li>    
+    <li><a href="http://www.texturearchive.com/">Texture Archive</a><span>: Neat collection of environmental and fabric textures.</span></li>    
+    <li><a href="http://www.imageafter.com/">Image * After</a><span>: A large online free photo collection. Download and use any image or texture and in your own work, either personal or commercial. (Site includes images as well as textures).</span></li>
+</ul>
+Animation:
+<ul class="squareList">    
+    <li><a href="http://mocap.cs.cmu.edu/">CMU Graphics Lab Motion Capture Database</a><span>: 2605 animations in 6 categories and 23 subcategories. Free for all uses.</span></li>    
+    <li><a href="http://www.mocapdata.com">mocapdata.com</a><span>: Commercial site with over 4000 free animations in addition to their premium animations.</span></li>    
+    <li><a href="http://www.truebones.com/">Truebones</a><span>: Inexpensive commercial motion capture in BVH file format. Some free files available upon request.</span></li>
+</ul>
+Fonts:
+<ul class="squareList">    
+    <li><a href="http://openfontlibrary.org/">Open Font Library</a><span>: High quality open-source fonts.</span></li>    
+    <li><a href="http://www.theleagueofmoveabletype.com/">The League of Moveable Type</a><span>: Only the most well-made, free &amp; open-source, @font-face ready fonts.</span></li>    
+    <li><a href="http://www.dafont.com/">dafont.com</a><span>: The fonts presented on this website are their authors’ property, and are either freeware, shareware, demo versions or public domain.</span></li>    
+    <li><a href="http://www.acidfonts.com/">Acid Fonts</a><span>: Large collection of free fonts.</span></li>
+</ul>
+Icons:
+<ul class="squareList">    
+    <li><a href="http://www.famfamfam.com/lab/icons/">famfamfam icons</a><span>: Popular free icon set for web projects.</span></li>    
+    <li><a href="http://tango.freedesktop.org/Tango_Icon_Library">Tango Icon Library</a><span>: Contains a basic set of icons for the most common usage.</span></li>    
+    <li><a href="http://game-icons.net/">Game-Icons</a><span>: All types of icons. Mages, claws, hearts, anything.</span></li>
+</ul>
+Text:
+<ul class="squareList">    
+    <li><a href="http://nine.frenchboys.net/index.php">serendipity</a><span>: Various random name and description generators (may be good for RPGs).</span></li>
+</ul>
+Reference:
+<ul class="squareList">    
+    <li><a href="http://search.creativecommons.org/">Creative Commons Search</a><span>: Search for Creative Commons licensed content (images, videos, music, etc.) on multiple sites.</span></li>
+</ul>
+Commercial Resources
+<ul class="squareList">    
+    <li><a href="http://www.frogames.net/content-packs.html">Frogames content packs</a><span>: Inexpensive content packs mostly for Torque and Unity3D.</span></li>    
+    <li><a href="http://www.dexsoft-games.com/">Dexsoft</a><span>: High-quality model packs with LODs, textures, and animations. Available in multiple formats.</span></li>    
+    <li><a href="http://www.3drt.com/">3DRT</a><span>: Looks more expensive and of lower quality than Frogames and Dexsoft. (Some free content.)</span></li>    
+    <li><a href="http://www.gamebeep.com/">Game Beep</a><span>: Free and commercial resources in various categories. (Free content is generally available elsewhere.)</span></li>    
+    <li><a href="http://www.animeeple.com">Animeeple</a><span>: A easy-to-use character animation tool with a focus on its built-in animation store. (Looks neat.)</span></li>    
+    <li><a href="http://new.myfonts.com/">MyFonts</a><span>: Good commercial fonts website. Features “WhatTheFont” feature to assist in identifying fonts based on images.</span></li>    
+    <li><a href="http://www.graphic-buffet.com/">Graphic Buffet</a><span>: Vector graphics. Some are free.</span></li>
+</ul>
+<b>Related Resources</b><br>
+These websites are a bit of a mixed bag as their content is generally not directly targeted at games or their prices may be too high for indie developers.
+<p style="margin-top: 40px;">Graphics (2D):</p>
+<ul class="squareList">    
+    <li><a href="http://www.openclipart.org/">Open Clip Art Library</a><span>: Good resource for vector clip art, but how often is that used in games?</span></li>
+</ul>
+Graphics (3D):
+<ul class="squareList">    
+    <li><a href="http://www.turbosquid.com/">TurboSquid 3D Marketplace</a><span>: Well-established website, but quality and costs vary greatly.</span></li>    
+    <li><a href="http://www.sharecg.com/">ShareCG</a><span>: More targeted at artists wanting to gain exposure. Membership (free) required to download assets.</span></li>    
+    <li><a href="http://archive3d.net/">Archive3D</a><span>: Mostly furniture and other high resolution models for architectural visualisation.</span></li>    
+    <li><a href="http://www.nasa.gov/multimedia/3d_resources/">NASA 3D Resources</a><span>: A growing collection of 3D models, textures, and images from inside NASA. Free to download and use.</span></li>    
+    <li><a href="http://lodbook.com/models/">3D Model Repositories list</a><span>: From the accompany website for the book <a href="http://lodbook.com/">Level of Detail for 3D Graphics</a>. More research focussed.</span></li>
+</ul>
+Classic game assets:
+<ul class="squareList">    
+    <li><a href="http://www.vgmusic.com/">VGMusic</a><span>: Video game music from classic games.</span></li>    
+    <li><a href="http://sdb.drshnaps.com/">Sprite Database</a><span>: Sprite rips from classic games.</span></li>
+</ul>
+<p>
+Other Lists
+</p>
+<ul class="squareList">    
+    <li><a href="http://freegamedev.net/wiki/index.php/Free_3D_and_2D_art_and_audio_resources">Free 3D and 2D art and audio resources</a></li>
+</ul>

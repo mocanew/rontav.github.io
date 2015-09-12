@@ -1,0 +1,27 @@
+# Site settings
+title: RontavStudio Blog
+email: mr_vali@yahoo.ro
+description: #> # this means to ignore newlines until "baseurl:"
+baseurl: # the subpath of your site, e.g. /blog/
+url: "http://rontavstudio.com:1234" # the base hostname & protocol for your site
+title_description: A blog focused on open source code
+title_image: /images/logo-200.png
+google_analytics: UA-50635346-1
+disqus_account: rontavstudio
+github_repository: https://github.com/rontav
+post_limit: 5
+author_name: Mocanu Valentin
+
+# Social usernames/URLs
+twitter_username: vali_mr
+github_username:  rontav
+facebookPage: RontavGames
+linkedin_link: https://ro.linkedin.com/in/rontav
+google_plus_link: https://plus.google.com/u/0/108560480472684193112
+stackoverflow_link: http://stackoverflow.com/users/3440021/rontav
+codepen_username: rontav
+
+# Build settings
+permalink: /:title/
+exclude: ['node_modules']
+include: []

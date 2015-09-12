@@ -1,0 +1,112 @@
+---
+layout: default
+---
+
+{% if page.minutes %}
+{% assign minutes = page.minutes %}
+{% else %}
+{% assign minutes = content | number_of_words | divided_by: 180 %}
+{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
+{% endif %}
+
+<div class="container-fluid single">
+    <div class="row">
+        <div itemscope itemtype="http://schema.org/Article" class="col-md-12 article">
+            {% include menu.html %}
+            
+            {% if site.data.thumbnail[page.thumbnail] %}
+            <div class="thumb">
+                <img itemprop="image" src="{{ site.data.thumbnail[page.thumbnail] }}" alt="Thumbnail: {{ page.thumbnail }}" />
+            </div>
+            {% elsif page.thumbnail %}
+            <div class="thumb">
+                <i class="fa fa-{{ page.thumbnail }} fa-4x"></i>
+            </div>
+            {% endif %}
+
+            <h1 class="header" itemprop="name">{{ page.title }}</h1>
+
+            <div class="author">
+                <small><i>
+                    by
+                    <span itemprop="author">
+                        {% if page.author.url %}
+                        <a rel="author" href="{{ page.author.url }}">
+                            {% endif %}
+                            {% if page.author.display_name %}
+                            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                                <span itemprop="name">{{ page.author.display_name }}</span>
+                            </span>
+                            {% endif %}
+                            {% if page.author.url %}
+                        </a>
+                        {% endif %}
+                    </span>
+                    on <span itemprop="datePublished" content="2014-08-28">{{ page.date | date: "%B %-d, %Y" }}</span>
+                    under {% if page.categories %}{% for category in page.categories limit:1 %}{{ category }}{% endfor %}{% endif %}
+                    </i></small>
+            </div>
+
+            <div class="read-time">
+                <small>
+                    {{ minutes }} minute read
+                </small>
+            </div>
+
+            <div class="content-panel content">
+                <div>{{ content }}</div>
+
+                <div class="tags"><small>
+                    <i class="fa fa-tags"></i>
+                    {{ page.tags | join: ', ' }}
+                    </small></div>
+
+            </div>
+
+            {% if site.disqus_account %}
+            <div class="content-panel comments">
+                <div id="disqus_thread">
+                    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+                </div>
+            </div>
+            {% endif %}
+
+            <div class="content-panel related clearfix">
+                <div class="previous">
+                    {% if page.previous %}
+                    <p>
+                        <a href="{{ site.baseurl }}{{ page.previous.url }}">{{ page.previous.title }}</a>
+                    </p>
+                    <p class="date">Published {{ page.previous.date | date: "%B %-d, %Y" }}</p>
+                    {% endif %}
+                </div>
+                <div class="next">
+                    {% if page.next %}
+                    <p>
+                        <a href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }}</a>
+                    </p>
+                    <p class="date">Published {{ page.next.date | date: "%B %-d, %Y" }}</p>
+                    {% endif %}
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+{% if site.disqus_account %}
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    function disqus_config() { this.experiment.enable_scroll_container = true; }
+    var disqus_shortname = "{{ site.disqus_account }}"; // required: replace example with your forum shortname
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+{% endif %}
