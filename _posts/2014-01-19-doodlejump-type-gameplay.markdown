@@ -33,7 +33,7 @@ pingback:
 Some people had questioned me how to jump through a platform, like in doodlejump.
 <br>
 The basic idea it's that you change the layer of the player when he jumps and change it back when he has negative Y velocity.
-<a class="demoLink" href="http://adf.ly/lsfqV" target="_blank">Demo</a>
+<a class="demoLink" href="http://adf.ly/1O8msb" target="_blank">Demo</a>
 The code is pretty basic:
 {% highlight c# %}
 float jumpForce = 1000f;

@@ -21,7 +21,7 @@ comments: []
 The scrollrect that snaps to a grid is a generic function and I think Unity will add it in the future.<br>
 There's a problem that I cannot solve: if you make the child too big, it will display under the next child. I didn't find any option for a z-index or depth. If you find a sollution to this, please comment it down below.<br>
 You can download the scene <a href="http://adf.ly/1IF34R" target="_blank">here</a>.
-<a href="http://adf.ly/1IF2aN" class="demoLink" target="_blank">Demo</a>
+<a href="http://adf.ly/1O8mly" class="demoLink" target="_blank">Demo</a>
 {% highlight c# %}
 using UnityEngine;
 using System.Collections;
