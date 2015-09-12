@@ -25,3 +25,6 @@ codepen_username: rontav
 permalink: /:title/
 exclude: ['node_modules']
 include: []
+
+gems:
+  - jekyll-sitemap
