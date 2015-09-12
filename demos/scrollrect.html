@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<title>RontavStudio | DoodleJump type gameplay part 2, side teleporting</title>
+		<title>RontavStudio | Scrollrect snap horizontally</title>
 		<script type='text/javascript' src='https://ssl-webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/jquery.min.js'></script>
 		<script type="text/javascript">
 		<!--
@@ -15,8 +15,8 @@
 		<script type="text/javascript">
 		<!--
 			var config = {
-				width: 480, 
-				height: 800,
+				width: 960, 
+				height: 600,
 				params: { enableDebugging:"0" }
 				
 			};
@@ -56,7 +56,7 @@
 						break;
 					}
 				});
-				u.initPlugin(jQuery("#unityPlayer")[0], "piggy.unity3d");
+				u.initPlugin(jQuery("#unityPlayer")[0], "scrollrect.unity3d");
 			});
 		-->
 		</script>
@@ -85,7 +85,7 @@
 		}
 		div.content {
 			margin: auto;
-			width: 480px;
+			width: 960px;
 		}
 		div.broken,
 		div.missing {
@@ -109,14 +109,14 @@
 		}
 		div#unityPlayer {
 			cursor: default;
-			height: 800px;
-			width: 480px;
+			height: 600px;
+			width: 960px;
 		}
 		-->
 		</style>
 	</head>
 	<body>
-		<p class="header"><span>RontavStudio | </span>DoodleJump type gameplay part 2, side teleporting</p>
+		<p class="header"><span>RontavStudio | </span>Scrollrect snap horizontally</p>
 		<div class="content">
 			<div id="unityPlayer">
 				<div class="missing">
