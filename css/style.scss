@@ -571,9 +571,14 @@ ul {
     }
     div {
         color: $light-medium;
-        text-align: center;
         margin-top: 20px;
         margin-bottom: 20px;
+        &:nth-of-type(1){
+        	text-align: left;
+        }
+        &:nth-of-type(2){
+        	text-align: right;
+        }
     }
 }
 .about-image-wrapper {
