@@ -3,7 +3,7 @@ title: RontavStudio Blog
 email: mr_vali@yahoo.ro
 description: #> # this means to ignore newlines until "baseurl:"
 baseurl: # the subpath of your site, e.g. /blog/
-url: "http://rontavstudio.com:1234" # the base hostname & protocol for your site
+url: "http://rontavstudio.com" # the base hostname & protocol for your site
 title_description: A blog focused on open source code
 title_image: /images/logo-200.png
 google_analytics: UA-50635346-1
