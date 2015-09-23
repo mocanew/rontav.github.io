@@ -482,7 +482,10 @@ ul {
                 color: $red;
             }
         }
-        .comments {} .related {
+        .comments {
+            background: #fafafa;
+        } 
+        .related {
             margin-top: 50px;
             text-align: center;
             .related-header {
