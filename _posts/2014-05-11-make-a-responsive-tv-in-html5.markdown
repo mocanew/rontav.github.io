@@ -112,6 +112,7 @@ CSS:
 The hardest part if you want to make a responsive TV in HTML5 is to cut the TV in 4 pieces.
 <br>
 Working example below:
+
 <div class="text-center" style="margin: 15px 0;">
     <button style="color: #000;font-size: 14px;" onclick="document.getElementById('tvWrapper').style.width = '1000px';">1000px</button>
     <button style="color: #000;font-size: 14px;" onclick="document.getElementById('tvWrapper').style.width = '650px';">650px</button>
