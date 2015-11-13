@@ -28,7 +28,6 @@ If you have any suggestions (websites to add to this list) please let me know in
 Graphics (2D):
 <ul class="squareList">    
     <li><a href="http://www.lostgarden.com/search/label/free%20game%20graphics">Lost Garden free game graphics</a><span>: Danc’s miraculously flexible game prototyping graphics for small worlds.</span></li>    
-    <li><a href="http://www.indiegamestock.com/">Indie Game Stock</a><span>: Characters, buildings, props and backgrounds.</span></li>    
     <li><a title="Unlucky Studio" href="http://www.unluckystudio.com" target="_blank">Unlucky Studio</a><span>: They release one free sprites pack every month.</span></li>
 </ul>
 Sound:
