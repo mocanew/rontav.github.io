@@ -31,6 +31,7 @@ Graphics (2D):
 <ul class="squareList">    
     <li><a href="http://www.lostgarden.com/search/label/free%20game%20graphics">Lost Garden free game graphics</a><span>: Danc’s miraculously flexible game prototyping graphics for small worlds.</span></li>    
     <li><a title="Unlucky Studio" href="http://www.unluckystudio.com" target="_blank">Unlucky Studio</a><span>: They release one free sprites pack every month.</span></li>
+    <li><a title="Mobile Game Graphics" href="https://mobilegamegraphics.com/" target="_blank">Mobile Game Graphics</a><span>: Game assets bundles on different themes: zombie, war, backgrounds, 8 bit etc. Thanks <a href="https://disqus.com/by/disqus_sXUBc7Nike/" target="_blank">Hemant</a>!</span></li>
 </ul>
 Sound:
 
